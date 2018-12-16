@@ -1,2 +1,2 @@
-Prosta aplikacja symuluj¹ca rozwój kolonii bakterii
-z wykorzystaniem w¹tku.
+Prosta aplikacja symulujÄ…ca rozwÃ³j kolonii bakterii
+z wykorzystaniem wÄ…tku.
